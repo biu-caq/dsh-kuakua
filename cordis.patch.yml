@@ -1,0 +1,5 @@
+# dsh-kuakua：一键夸夸。
+# 一个 host 行就够：工具与配置都由这一行承担；表情图与配置走 /x-kuakua 路由喂给页面。
+- insert:
+    - id: dsh-kuakua
+      name: dsh-kuakua
