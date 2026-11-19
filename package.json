@@ -43,5 +43,13 @@
     "praise",
     "表情包"
   ],
-  "author": "biu"
+  "author": "biu",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/biu-caq/dsh-kuakua.git"
+  },
+  "homepage": "https://github.com/biu-caq/dsh-kuakua#readme",
+  "bugs": {
+    "url": "https://github.com/biu-caq/dsh-kuakua/issues"
+  }
 }
